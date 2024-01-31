@@ -1,2 +1,2 @@
-# Ch1Lab
+# IntroLab
  
